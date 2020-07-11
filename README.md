@@ -5,17 +5,19 @@
 <br />
 
 <div align="center">
+  <h3>Project created for my blog post: 
+    <a href="https://fredmaiaarantes.dev/creating-rest-apis-with-adonisjs-5/" target="_blank">
+      Creating REST API's with AdonisJS 5
+    </a>
+  </h3>
+</div>
+
+<div align="center">
   <h3>Fullstack MVC framework for Node.js</h3>
   <p>AdonisJs is a fullstack Web framework with focus on <strong> ergonomics and speed </strong>. It takes care of much of the Web development hassles, offering you a clean and stable API to build Web apps and micro services.</p>
 </div>
 
 <br />
-
-<div align="center">
-
-[![circleci-image]][circleci-url] [![npm-image]][npm-url] ![][typescript-image] [![license-image]][license-url]
-
-</div>
 
 <div align="center">
   <h3>
