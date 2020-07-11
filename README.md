@@ -13,7 +13,6 @@
 </div>
 
 <div align="center">
-  <h3>Fullstack MVC framework for Node.js</h3>
   <p>AdonisJs is a fullstack Web framework with focus on <strong> ergonomics and speed </strong>. It takes care of much of the Web development hassles, offering you a clean and stable API to build Web apps and micro services.</p>
 </div>
 
@@ -28,15 +27,11 @@
     <a href="https://adonisjs.com/docs">
       Guides
     </a>
-    <span> | </span>
-    <a href="CONTRIBUTING.md">
-      Contributing
-    </a>
   </h3>
 </div>
 
 <div align="center">
-  <sub>Built with ❤︎ by <a href="https://github.com/thetutlage">Harminder Virk</a>
+  <sub>Built with ❤︎ by <a href="https://fredmaia.com">Frederico Maia</a>
 </div>
 
 [circleci-image]: https://img.shields.io/circleci/project/github/adonisjs/core/master.svg?style=for-the-badge&logo=circleci
